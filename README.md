@@ -1,4 +1,5 @@
-$cape:wq
-cd $work
-vi kinasa. fasta
-
+>AAC37327.1 p53, partial [Canis lupus familiaris]
+KSEFVTEVVRRCPHHERCSDSSDGLAPPQHLIRVEGNLRAKYLDDRYTFRHSVVVPYEPPEVGFDYTTIH
+YNYMCNS
+>
+>
